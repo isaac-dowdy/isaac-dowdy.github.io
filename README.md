@@ -1,7 +1,7 @@
 # Hi, I'm Isaac!
 
 Welcome to my project portfolio!
-I will populate this page with selected work, documentations, and reflections from personal and academic projects.
+I will populate this page with selected work, documentation, and reflections from personal and academic projects.
 
 ---
 
