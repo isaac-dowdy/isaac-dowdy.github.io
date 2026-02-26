@@ -12,7 +12,7 @@ I will populate this page with selected work, documentation, and reflections fro
 An interactive D3.js dashboard that allows users to explore relationships between healthcare system inputs and health outcomes across the globe.
 
 **View the Project:**
-[Health Outcomes Dashboard](vis1-health-outcomes-dashboard)
+[Health Outcomes Dashboard](vis1-health-outcomes-dashboard.md)
 
 ---
 
