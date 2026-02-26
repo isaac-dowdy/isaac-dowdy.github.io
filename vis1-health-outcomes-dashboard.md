@@ -21,9 +21,6 @@ All data is from 2022, as the most recent available year for each chosen attribu
 
 Not all countries have available data for each attribute. Where possible, those who collected and published the data filled in missing points with data from earlier years or with projections. To find the specific pages for each attribute on Our World in Data, see the references section at the bottom of the application.
 
-## The Sketches
-
-Will insert pictures later and add words to describe them.
 
 ## The Dashboard
 
