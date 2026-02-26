@@ -101,5 +101,15 @@ I also found ChatGPT to be good at editing HTML files, so whenever I wanted to t
 I mentioned that I used Visual Studio Code, which is now integrated with GitHub Copilot. Copilot offered line-by-line suggestions as I typed that were surprisingly good at guessing what I wanted to write next based on what was already typed. This saved a lot of time typing, but it also offered new ideas I hadn’t thought of and helped me problem solve. Copilot also has a chat window directly inside the IDE that can view all of the code currently open and make direct edits upon request, but I didn’t love this functionality because it moved too quickly and tried to edit too many files at the same time, leaving me confused and unable to accurately judge the quality of its generated code.
 
 ## Demo
+<div style="display: flex; justify-content: center;">
+  <iframe 
+    width="800" 
+    height="450" 
+    src="https://www.youtube.com/embed/7p8N7JQhl00"
+    title="Health Outcomes Dashboard Demo"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
 
-Link in a video here later.
+  
