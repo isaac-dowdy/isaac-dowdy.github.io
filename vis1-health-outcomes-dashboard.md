@@ -1,3 +1,5 @@
+[Home](README.md)
+
 # Vis Project 1: Health Outcomes Dashboard
 
 
