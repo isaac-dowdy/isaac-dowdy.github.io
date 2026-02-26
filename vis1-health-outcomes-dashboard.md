@@ -24,21 +24,44 @@ Not all countries have available data for each attribute. Where possible, those 
 
 ## The Dashboard
 
-The dashboard application contains five different visualizations: two histograms, two choropleth maps, and one scatterplot. The two histograms represent the two user-chosen attributes, defaulted to Healthcare Expenditure and Life Expectancy, respectively. Each histogram contains bins of the possible values for the chosen data, with each bar representing the number of countries that fall within that bin. The two maps display this same data in a different way, coloring each specific country based on the value of the attribute. Finally, the scatterplot describes the relationship between the two attributes in one plot, placing one on either axis.
+The dashboard application contains five different visualizations: two histograms, two choropleth maps, and one scatterplot. The two histograms represent the two user-chosen attributes, defaulted to Healthcare Expenditure and Life Expectancy, respectively. Each histogram contains bins of the possible values for the chosen data, with each bar representing the number of countries that fall within that bin. The two maps display this same data in a different way, coloring each specific country based on the value of the attribute. Finally, the scatterplot describes the relationship between the two attributes in one plot, placing one on either axis. Few an image of the full dashboard application below.
+
+<img src="images/app.png" width=600>
 
 The application also has three dropdown buttons:
 
 - **Attribute 1** – allows the user to choose the attribute displayed by the first map and histogram as well as along the x-axis of the plot.  
 - **Attribute 2** – uses the same logic for the other map and histogram and the data plotted on the y-axis.  
-- **Color By** – allows the user to select a third attribute to color the points of the scatterplot with, following the same color scheme as the map.  
+- **Color By** – allows the user to select a third attribute to color the points of the scatterplot with, following the same color scheme as the map.
+
+<img src="images/dropboxes.png" width=400>
 
 Each visualization contains detail-on-demand interactions. Hovering over a bar on either histogram shows the specific number of countries represented. Hovering over a country on either map returns a tooltip with the attribute’s value for that country, and clicking on any country will filter the other graphs to only include data from the selected countries. Hovering over a point on the scatterplot shows up to three values: the value for both axes and a potential third attribute if selected.
 
-Add screenshots.
+<p align="left">
+  <img src="images/choro-interaction.png" width=300>
+  <img src="images/findings-qatar.png" width=300>
+  <img src="images/histogram.png" width=300>
+</p>
+<img src="images/choro-filtering.png" width=600>
 
 ## The Findings
 
-Add screenshots and words later.
+When I started this project, I guessed that the United States would be an outlier in terms of Healthcare Expenditure. That hypothesis turned out to be correct. While being middle of the pack in terms of life expectancy at around 77 years, the US featured the largest Expenditure values by far at about $12,500 per person. There are certainly many factors that effect Life Expectancy beyond just the quality of Healthcare, but having such high expenditures with no clear better outcome begs the question: Is the USA's Healthcare system inefficient?
+
+<img src="images/findings-usa.png" width=400>
+
+Qatar has relatively low Health Expenditure, but one of the highest Life Expectancies. This is difficult to see when just looking at these two attributes because there are a high number of countries with low Healthcare Expenditures, so they are hard to pick out on the plot. Also because, for most countries, the Life Expectancy values are quite similar. When I talk about Qatar being on the higher end, I mean by a couple of years. The "Color By" feature helped me see that it also boasts a very high GDP per capita, making it stand out as a rich country that requires less money spent on Healthcare, while still outputting high Life Expectancy. From these findings, it seems like a good system worth looking into in greater detail.
+
+<img src="images/findings-qatar.png" width=400>
+
+Monaco is also an interesting outlier due to its high Life Expectancy and high Number of Physicians per 1000 people.
+
+<img src="images/findings-monaco.png" width=400>
+
+Finally, I noticed that the Western European countries tend to have the highest Life Expectancy for their people. When filtering from the map, it's clear that they still require significant input in terms of Expenditure, but not as much as some other nations. From this viewpoint, it seems like Western Eurpoean countries have high quality healthcare at more affordable costs. They might be worth looking into more as potential for some of the most cost-effective Healthcare systems.
+
+<img src="images/findings-europe.png" width=600>
 
 ## The Process
 
