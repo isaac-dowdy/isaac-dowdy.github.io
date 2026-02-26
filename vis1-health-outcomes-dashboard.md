@@ -7,7 +7,7 @@ The initial goal for this project was to create a dashboard application that all
 
 ## The Data
 
-All the data for this project was taken from Our World in Data: https://ourworldindata.org  
+All the data for this project was taken from Our World in Data: [https://ourworldindata.org](https://ourworldindata.org)  
 
 All data is from 2022, as the most recent available year for each chosen attribute. Here is a list of the data attributes included in the project:
 
@@ -69,7 +69,8 @@ The only library used in the development of this application was JavaScript’s 
 
 I used GitHub throughout the development process to contain my code and manage its iterations. The publicly hosted repository can be found at this link:
 
-https://github.com/isaac-dowdy/health-outcomes-dashboard
+[https://github.com/isaac-dowdy/health-outcomes-dashboard](
+https://github.com/isaac-dowdy/health-outcomes-dashboard)
 
 The files are structured into three folders: `data`, `js`, and `css`.  
 - The `data` folder holds my GeoJSON data and CSV data.  
@@ -82,7 +83,8 @@ The code for the project was written inside Visual Studio Code, which integrates
 
 Now, the dashboard application is publicly available at this link:
 
-https://health-outcomes-dashboard-page.vercel.app/
+[https://health-outcomes-dashboard-page.vercel.app/](
+https://health-outcomes-dashboard-page.vercel.app/)
 
 ## The Challenges
 
