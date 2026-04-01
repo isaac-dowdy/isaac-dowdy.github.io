@@ -14,6 +14,13 @@ An interactive D3.js dashboard that allows users to explore relationships betwee
 **View the Project:**
 [Health Outcomes Dashboard](vis1-health-outcomes-dashboard.md)
 
+### Who You Gonna Call? 3-1-1! Visualizing Urban Disorder in Cincinnati
+
+An interactive D3.js dashboard that allows users to explore 311 service requests made to the City of Cincinnati in 2025, specifically the requests that we classified "Visual Urban Disorder" like graffiti, littering, vacant buildings, etc.
+
+**View the Project:**
+[Who You Gonna Call?](vis2-who-you-gonna-call.md)
+
 ---
 
 ## About Me
