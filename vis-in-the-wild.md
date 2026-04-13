@@ -1,11 +1,8 @@
 # Vis in the Wild: NASA's Eyes on Asteroids
 
-For as long as I can remember, I have been intrigued by outer space. At first, my fascination came from a childlike sense of wonder, drawn to something far greater than myself, something mysterious and awe-inspiringly beautiful.  
-As I grew older, that fascination grew with me into a scientific curiosity. In the grand scheme of the universe, we are smaller than specks, yet so much of it remains uncharted and unknown.  
-After many nights spent gazing upward, a couple of elective astronomy courses, and an ongoing interest in books, movies, and video games set in space, that curiosity has only deepened. And somewhere deep within that curiosity, I can still find the younger version of myself, content to sit, look up, and marvel at the beauty of it all.
+For as long as I can remember, I have been intrigued by outer space. At first, my fascination came from a childlike sense of wonder, drawn to something far greater than myself, something mysterious and awe-inspiringly beautiful. As I grew older, that fascination grew with me into a scientific curiosity. In the grand scheme of the universe, we are smaller than specks, yet so much of it remains uncharted and unknown. After many nights spent gazing upward, a couple of elective astronomy courses, and an ongoing interest in books, movies, and video games set in space, that curiosity has only deepened. And somewhere deep within that curiosity, I can still find the younger version of myself, content to sit, look up, and marvel at the beauty of it all.
 
-When asked to find and analyze an interactive data visualization, I was quick to pick out *NASA's Eyes on Asteroids.* This application is part of *NASA's Eyes* series, developed to provide helpful, visual learning experiences about space.  
-The primary purpose of *NASA’s Eyes on Asteroids* is to make complex astronomical data accessible and engaging for a general audience through an interactive, story-driven visualization. It allows users to explore comets, asteroids, and spacecraft missions within our solar system in a dynamic and intuitive way.
+When asked to find and analyze an interactive data visualization, I was quick to pick out *NASA's Eyes on Asteroids.* This application is part of *NASA's Eyes* series, developed to provide helpful, visual learning experiences about space. The primary purpose of *NASA’s Eyes on Asteroids* is to make complex astronomical data accessible and engaging for a general audience through an interactive, story-driven visualization. It allows users to explore comets, asteroids, and spacecraft missions within our solar system in a dynamic and intuitive way.
 
 <img src="images/overview.png" width=600>
 
@@ -15,8 +12,7 @@ The data presented in this visualization includes the orbital paths, classificat
 
 ## Audience
 
-This application is geared toward the general public: anyone with an active interest in space, specifically the asteroids and comets found in the solar system, but without advanced scientific training.  
-Rather than functioning as a complex scientific dashboard, the application feels more like a virtual museum exhibit. It includes curated highlights of specific asteroids, comets, and missions, along with explanatory content that helps users understand what they are seeing. These design choices make the tool approachable while still being informative.
+This application is geared toward the general public: anyone with an active interest in space, specifically the asteroids and comets found in the solar system, but without advanced scientific training. Rather than functioning as a complex scientific dashboard, the application feels more like a virtual museum exhibit. It includes curated highlights of specific asteroids, comets, and missions, along with explanatory content that helps users understand what they are seeing. These design choices make the tool approachable while still being informative.
 
 The images below demonstrate some of these features, including guided tours, detailed object views, and a display of near-Earth asteroids.
 
