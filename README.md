@@ -21,6 +21,13 @@ An interactive D3.js dashboard that allows users to explore 311 service requests
 **View the Project:**
 [Who You Gonna Call?](vis2-who-you-gonna-call.md)
 
+### TV Time: The Fellowship of the Script
+
+An interactive D3.js dashboard that scrapes and analyzes text data from trancscripts of the Lord of the Rings movies, allowing the user to explore the film franchise in terms of what the characters say, how the storylines interact, and how the story progresses across the map of Middle Earth.
+
+**View the Project:**
+[The Fellowship of the Script](vis3-the-fellowship-of-the-script.md)
+
 ---
 
 ## About Me
