@@ -1,7 +1,8 @@
 # Hi, I'm Isaac!
 
 Welcome to my project portfolio!
-I will populate this page with selected work, documentation, and reflections from personal and academic projects.
+
+I am a Computer Science Student at the University of Cincinnati with interests in software development, data visualization, and data-driven storytelling. This site showcases some recent selected personal and academic projects.
 
 ---
 
