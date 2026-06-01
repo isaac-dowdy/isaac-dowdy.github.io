@@ -1,6 +1,4 @@
-[Home](README.md)
-
-# Vis Project 2: Who You Gonna Call? 3-1-1!
+# Who You Gonna Call? 3-1-1!
 
 **Team Members:** [Matthew Goldsberry](https://github.com/MatthewGoldsberry) & [Isaac Dowdy](https://github.com/isaac-dowdy)
 
