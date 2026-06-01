@@ -1,6 +1,4 @@
-[Home](README.md)
-
-# Vis Project 1: Health Outcomes Dashboard
+# Health Outcomes Dashboard
 
 
 The initial goal for this project was to create a dashboard application that allowed the user to explore data on healthcare outcomes across the globe. I wanted to include data to describe healthcare systems as a series of inputs and outputs. To start, I chose to examine the relationship between Healthcare Expenditure per Capita and Life Expectancy. As the project grew, I expanded to include different datasets that might help explain a nation’s healthcare system or health outcomes as a whole: GDP per capita, the number of physicians per 1000 people, or undernourishment rates to name a few examples. This application gives the user the freedom to select between multiple related datasets and explore the relationships between all of them, encouraging individuals to derive their own data-driven conclusions.
