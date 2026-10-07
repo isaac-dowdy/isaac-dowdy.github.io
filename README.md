@@ -6,6 +6,13 @@ I am a Computer Science Student at the University of Cincinnati with interests i
 
 ## Projects
 
+### Bloom: Smart Plant Pot Interface
+
+A user interface mockup for a smart plant pot and a companion mobile app that help users keep track of plant care needs.
+
+**View the Project:**
+[Bloom: Smart Planter](ui1-bloom-smart-planter.md)
+
 ### Health Outcomes Dashboard
 
 An interactive D3.js dashboard that allows users to explore relationships between healthcare system inputs and health outcomes across the globe.
